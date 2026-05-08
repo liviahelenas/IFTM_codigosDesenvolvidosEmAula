@@ -1,6 +1,6 @@
 # IFTM Codigos Desenvolvidos em Aula
 # 🌻Bem-Vindo! 
-## Este é o meu repositório de exercícios, desenvolvido nas disciplinas de estudos, ao longo do curso Sistemas Para Internet, no Instituto Federal do Triângulo Mineiro.
+## Este é o meu repositório de exercícios, desenvolvido ao longo do curso Sistemas Para Internet, no Instituto Federal do Triângulo Mineiro.
 
 * É um espaço de *aprendizagem* e *melhoria contínua*;
 * Códigos serão evoluídos no decorrer do curso, podendo ser visível minha *evolução em desenvolvimento* ao longo do tempo!
