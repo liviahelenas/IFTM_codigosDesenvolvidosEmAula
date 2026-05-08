@@ -16,5 +16,10 @@
 * Projeto Web-Site Estático.
 * Lógica de Programação.
   
-## 🌻Obrigada por estar aqui.🌻
-### *<3 Espero que seja maravilhoso <3*
+## 👩‍💻 Autora
+
+Feito com 💙 por **Livia Helena**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviahelenas)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liviahelenas)
+
